@@ -1,11 +1,13 @@
 # hospital_food
-m4l impression of nlc's let's splosh [(http://nonlinearcircuits.blogspot.com/2018/04/lets-splosh.html)]-inspired modulator designed for @andrew's growing m4l collection. 
+m4l impression of nlc's [let's splosh](http://nonlinearcircuits.blogspot.com/2018/04/lets-splosh.html), designed for @andrew's growing m4l collection.
+
+![screenshot](https://llllllll.co/uploads/default/original/3X/d/4/d48f13b10129f47fd9e749449b4dcafd06ef5417.png)
 
 I've been in the hospital for the last few days with a perforated appendix and while the nursing staff has been nothing but sweet, engaged and fun, the first 40 hours were super boring. when racquel was able to visit again, she brought my computer and I dove deep into the m4l tools that andrew has been releasing. they're absolutely incredible.
 
 the only thing I wished for was a control / modulation layer. I love nlc's 'let's splosh', so I took the basic maths of the schematic and flipped it into a lil' m4l device that has plenty of mappings to control yr faves from andrew's suite!
 
-https://soundcloud.com/sound-and-process/hospital_food-demo/s-W8NQ0
+[sounds demo](https://soundcloud.com/sound-and-process/hospital_food-demo/s-W8NQ0)
 
 the four foods have been renamed to the items I was restricted to for my liquid diet:
 
@@ -15,7 +17,7 @@ the four foods have been renamed to the items I was restricted to for my liquid 
 `BROTH`
 
 the device is basically made of four `cycle~` objects following this comparator:
-
+![formulas](https://llllllll.co/uploads/default/optimized/3X/1/d/1d9a0eecb718599c52e69059ad52f1b45fdb8e52_2_690x116.jpeg)
 
 ### Requirements
 
