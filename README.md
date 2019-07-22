@@ -9,7 +9,7 @@ the only thing I wished for was a control / modulation layer. I love nlc's 'let'
 
 [sounds demo](https://soundcloud.com/sound-and-process/hospital_food-demo/s-W8NQ0)
 
-the four foods have been renamed to the items I was restricted to for my liquid diet:
+the four foods have been renamed to the items I was allowed on my liquid diet:
 
 `GELATIN`
 `SHERBET`
@@ -24,7 +24,7 @@ the device is basically made of four `cycle~` objects following this comparator:
 Ableton Live
 Max for Live
 [any of the m4l devices andrew's released](https://llllllll.co/search?q=category%3A18%20%40andrew) (recommended)
-
+restricted
 ### Documentation
 
 - load up `hospital_food.amxd` on any track in Live.
